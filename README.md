@@ -94,7 +94,7 @@ La información extraída se guarda en un archivo JSON especificado por el usuar
             "https://example.com/image1.jpg",
             "https://example.com/image2.jpg"
         ],
-        "flyer": "https://example.com/flyer.pdf"
+        "flyer": "https://example.com/flyer"
     }
 ]
 ```

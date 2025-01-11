@@ -63,7 +63,7 @@ python app.py HOUSE 0 salida.json
 ### Archivos principales:
 
 - **`app.py`**: Punto de entrada del programa que gestiona los argumentos de la línea de comandos y llama a las funciones de scraping.
-- **`scraper.py`**: Contiene las funciones principales para la navegación web, extracción de datos y manejo de URLs dinámicas.
+- **`scraper/scraper.py`**: Contiene las funciones principales para la navegación web, extracción de datos y manejo de URLs dinámicas.
 
 ### Funciones principales:
 

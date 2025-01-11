@@ -126,7 +126,3 @@ Para dudas o consultas, puedes comunicarte con el autor:
 
 - **Nombre**: Christian Munoz
 - **Correo**: clcardenas8@gmail.com
-
-### Notas:
-- Actualiza los enlaces al repositorio de GitHub y el archivo `LICENSE` si es necesario.
-- Si necesitas más ejemplos o secciones, ¡hazmelo saber!

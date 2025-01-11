@@ -94,7 +94,7 @@ La información extraída se guarda en un archivo JSON especificado por el usuar
             "https://example.com/image1.jpg",
             "https://example.com/image2.jpg"
         ],
-        "flyer": "https://example.com/flyer.pdf"
+        "flyer": "https://example.com/flyer"
     }
 ]
 ```
@@ -114,19 +114,9 @@ La información extraída se guarda en un archivo JSON especificado por el usuar
 
 ---
 
-## 🛡 **Licencia**
-
-Este proyecto se encuentra bajo la licencia **MIT**. Puedes ver los detalles en el archivo `LICENSE`.
-
----
-
 ## 📞 **Contacto**
 
 Para dudas o consultas, puedes comunicarte con el autor:
 
 - **Nombre**: Christian Munoz
 - **Correo**: clcardenas8@gmail.com
-
-### Notas:
-- Actualiza los enlaces al repositorio de GitHub y el archivo `LICENSE` si es necesario.
-- Si necesitas más ejemplos o secciones, ¡hazmelo saber!

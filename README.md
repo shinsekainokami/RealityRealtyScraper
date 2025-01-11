@@ -22,7 +22,7 @@ El programa se basa en la biblioteca [Playwright](https://playwright.dev/python/
 Instala las dependencias necesarias con el siguiente comando:
 
 ```bash
-pip install -r requirements.txt
+python -m build
 ```
 
 Asegúrate de instalar los navegadores requeridos por Playwright ejecutando:

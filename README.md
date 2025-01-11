@@ -19,10 +19,11 @@ El programa se basa en la biblioteca [Playwright](https://playwright.dev/python/
   - [Playwright](https://playwright.dev/python/) (versión 1.49.1 o superior)
 - **Sistema Operativo**: Compatible con Windows, macOS y Linux
 
-Instala las dependencias necesarias con el siguiente comando:
+Instala las dependencias necesarias con los siguientes comandos:
 
 ```bash
 python -m build
+pip install .
 ```
 
 Asegúrate de instalar los navegadores requeridos por Playwright ejecutando:

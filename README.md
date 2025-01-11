@@ -114,12 +114,6 @@ La información extraída se guarda en un archivo JSON especificado por el usuar
 
 ---
 
-## 🛡 **Licencia**
-
-Este proyecto se encuentra bajo la licencia **MIT**. Puedes ver los detalles en el archivo `LICENSE`.
-
----
-
 ## 📞 **Contacto**
 
 Para dudas o consultas, puedes comunicarte con el autor:
